@@ -1,0 +1,22 @@
+{
+  "name": "dms",
+  "authors": [
+    "Administrator <antonio.villella@gruppoac.it>"
+  ],
+  "description": "DMS  project",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/Resources/public/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
